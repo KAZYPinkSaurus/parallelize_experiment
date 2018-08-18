@@ -4,5 +4,8 @@
 - multiprocessing
 - Joblib
 
+## memo 
+- Joblibの方が使いやすそう
+- 他のオプションを調べて見たい
 
 
